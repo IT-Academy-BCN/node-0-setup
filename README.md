@@ -1,4 +1,4 @@
-## 1. IT Academy Node.js - Setup Sprint
+## IT Academy Node.js - Setup Sprint
 
 Welcome to our Node.js Bootcamp! We are thrilled to have you join us on this exciting journey to becoming proficient in Node.js. Throughout this bootcamp, you will gain hands-on experience and develop the skills necessary to build robust and scalable applications using Node.js.
 
